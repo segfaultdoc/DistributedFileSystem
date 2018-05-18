@@ -1,0 +1,16 @@
+import java.util.ArrayList;
+import edu.gmu.cs475.struct.*;
+
+
+
+class TagList <T> implements {
+
+    ArrayList
+    public TagList(){
+
+
+    }
+
+
+
+}
